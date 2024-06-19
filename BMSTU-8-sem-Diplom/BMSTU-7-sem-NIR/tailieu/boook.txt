@@ -1,0 +1,57 @@
+\begingroup
+\renewcommand{\section}[2]{}
+\begin{thebibliography}{}
+	
+	\bibitem{task}
+    Li Q., Peng H., Li J., Xia C., Yang R., Sun L., Yu P. S., He L. A Survey on Text Classification: From Shallow to Deep Learning.
+    \bibitem{45}
+    Whitney D.L., Evans B.W. Abbreviations for names of rock-forming minerals. Am. Mineral. 2010, 95, 185–187.
+    \bibitem{7}
+    Aggarwal C.C., Zhai C. Mining Text Data; Springer: Berlin/Heidelberg, Germany, 2012; 163–222.
+    \bibitem{161}
+    Morgan J.N., Sonquist J.A. Problems in the analysis of survey data, and a proposal. J. Am. Stat. Assoc. 1963, 58, 415–434.
+    \bibitem{166}
+    Giovanelli C., Liu X., Sierla S., Vyatkin V., Ichise R. Towards an aggregator that exploits big data to bid on frequency containment reserve market. In Proceedings of the 43rd Annual Conference of the IEEE Industrial Electronics Society (IECON 2017), Beijing, China, 29 October–1 November 2017; pp. 7514–7519.
+    \bibitem{168}
+    Jasim D.S. Data Mining Approach and Its Application to Dresses Sales Recommendation.
+    \bibitem{172}
+    Bansal H., Shrivastava G., Nhu N., Stanciu, L. Social Network Analytics for Contemporary Business Organizations; IGI Global: Hershey, PA, USA, 2018.
+    \bibitem{6}
+    Lai S., Xu L., Liu K., Zhao J. Recurrent Convolutional Neural Networks for Text Classification. In Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence, Austin, TX, USA, 25–30 January 2015; Volume 333, pp. 2267–2273.
+    \bibitem{186}
+    Jaderberg M., Simonyan K., Vedaldi A., Zisserman, A. Reading text in the wild with convolutional neural networks. Int. J. Comput. Vis. 2016, 116, 1–20.
+    \bibitem{27}
+    LeCun Y., Bengio Y., Hinton G. Deep learning. Nature 2015, 521, 436–444. 
+    \bibitem{187}
+    LeCun Y., Bottou L.m Bengio Y., Haffner, P. Gradient-based learning applied to document recognition. Proc. IEEE 1998, 86, 2278–2324.
+    \bibitem{188}
+    Scherer D., Muller A., Behnke, S. Evaluation of pooling operations in convolutional architectures for object recognition. In Proceedings of the Artificial Neural Networks–ICANN 2010, Thessaloniki, Greece, 15–18 September 2010; pp. 92–101.
+    \bibitem{189}
+     Johnson R., Zhang, T. Effective use of word order for text categorization with convolutional neural networks. arXiv 2014, arXiv:1412.1058.
+    \bibitem{69}
+    Kim Y. Convolutional Neural Networks for Sentence Classification. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), Doha, Qatar, 25–29 October 2014; pp. 1746–1751.
+    \bibitem{140}
+    Sahgal D., Ramesh A. On Road Vehicle Detection Using Gabor Wavelet Features with Various Classification Techniques. In Proceedings of the 14th International Conference on Digital Signal Processing Proceedings. DSP 2002 (Cat. No.02TH8628), Santorini, Greece, 1–3 July 2002, doi:10.1109/ICDSP.2002.1028263.
+    \bibitem{141}
+     Patel D., Srivastava T. Ant Colony Optimization Model for Discrete Tomography Problems. In Proceedings of the Third International Conference on Soft Computing for Problem Solving; Springer: Berlin/Heidelberg, Germany, 2014; pp. 785–792.
+    \bibitem{142}
+    Sahgal D., Parida M. Object Recognition Using Gabor Wavelet Features with Various Classification Techniques. In Proceedings of the Third International Conference on Soft Computing for Problem Solving; Springer: Berlin/Heidelberg, Germany, 2014; pp. 793–804.
+    \bibitem{143}
+    Sanjay G.P., Nagori V., Sanjay G.P., Nagori V. Comparing Existing Methods for Predicting the Detection of Possibilities of Blood Cancer by Analyzing Health Data. Int. J. Innov. Res. Sci. Technol. 2018, 4, 10–14
+    \bibitem{202}
+    Shwartz-Ziv R., Tishby N. Opening the black box of deep neural networks via information. arXiv 2017,arXiv:1703.00810.
+    \bibitem{203}
+    Gray A., MacDonell S. Alternatives to Regression Models for Estimating Software Projects.
+    \bibitem{204}
+    Shrikumar A., Greenside P., Kundaje A. Learning important features through propagating activation differences. arXiv 2017, arXiv:1704.02685.
+    \bibitem{205}
+    Anthes G. Deep learning comes of age. Commun. ACM 2013, 56, 13–15. 
+    \bibitem{206}
+     Lampinen A. K., McClelland J. L. One-shot and few-shot learning of word embeddings. arXiv 2017,arXiv:1710.10280
+    \bibitem{207}
+    Severyn A., Moschitti A. Learning to rank short text pairs with convolutional deep neural networks. In Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval, Santiago, Chile, 9–13 August 2015; pp. 373–382.
+
+\end{thebibliography}
+\endgroup
+
+\pagebreak

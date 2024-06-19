@@ -1,0 +1,28 @@
+pip install pandas
+pip install numpy
+pip install nltk
+pip install sklearn
+pip install collections
+pip install pickle
+pip install seaborn
+pip install matplotlib
+pip install string
+pip install spacy
+
+
+/* --------------------------------*/
+GPU render
+pip install cudf cuml
+
+
+/* --------------------------------*/
+python3 -m spacy download en_core_web_lg
+
+/* --------------------------------*/
+Chính trị-Xã hội : Politics-Society
+Khoa học         : Science
+Kinh doanh       : Business
+Pháp luật        : Law
+Sức khoẻ         : Health
+Thể thao         : Sport
+Công nghệ        : Technology

@@ -1,0 +1,10 @@
+{
+  "python.pydev.pythonPath": [],
+  "python.pydev.forcedBuiltins": [],
+  "java.debug.settings.showToString": true,
+  "python.pydev.format.manageBlankLines": false,
+  "java.debug.settings.debugSupportOnDecompiledSource": "off",
+  "java.debug.settings.enableRunDebugCodeLens": false,
+  "java.debug.settings.showLogicalStructure": false,
+  "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}

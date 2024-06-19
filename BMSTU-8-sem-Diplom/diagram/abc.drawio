@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2024-06-13T13:48:10.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Zr288KNmYV-Z9T-rF8Ap" version="24.4.15" type="device">
+  <diagram name="Trang-1" id="7iGFBFs027iD8rv88Nhw">
+    <mxGraphModel dx="1327" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iNEUpRMB2TqG6idfwtDD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" parent="1" source="iNEUpRMB2TqG6idfwtDD-1" target="iNEUpRMB2TqG6idfwtDD-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNEUpRMB2TqG6idfwtDD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="iNEUpRMB2TqG6idfwtDD-1" target="iNEUpRMB2TqG6idfwtDD-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNEUpRMB2TqG6idfwtDD-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Модуль пользовательного интерфейса&lt;/font&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="210" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNEUpRMB2TqG6idfwtDD-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Модуль очистки и предобработки текста&lt;/font&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="500" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNEUpRMB2TqG6idfwtDD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="iNEUpRMB2TqG6idfwtDD-3" target="iNEUpRMB2TqG6idfwtDD-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNEUpRMB2TqG6idfwtDD-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Модуль создания выборки&lt;/font&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="370" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iNEUpRMB2TqG6idfwtDD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="iNEUpRMB2TqG6idfwtDD-4" target="iNEUpRMB2TqG6idfwtDD-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iNEUpRMB2TqG6idfwtDD-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Модуль&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Helvetica&quot;&gt;классификации&lt;/font&gt;&lt;/font&gt;" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="370" width="230" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
